@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "Equity Growth Fund",
+      "Bank-name": "HDFC Bank",
+      "Return-interval": "1-Year",
+      "Minimum-Investment": "1,000",
+      "Category-Return": "10.8%",
+      "Volatility-rating": "Moderate"
+    },
+    {
+      "name": "Income Builder Fund",
+      "Bank-name": "SBI Bank",
+      "Return-interval": "1-Year",
+      "Minimum-Investment": "800",
+      "Category-Return": "6.5%",
+      "Volatility-rating": "Low to Moderate"
+    },
+    {
+      "name": "Global Opportunities Fund",
+      "Bank-name": "DEF Bank",
+      "Return-interval": "1-Year",
+      "Minimum-Investment": "2,500",
+      "Category-Return": "15.2%",
+      "Volatility-rating": "High"
+    },
+    {
+      "name": "Stable Bond Fund",
+      "Bank-name": "GHI Bank",
+      "Return-interval": "1-Year",
+      "Minimum-Investment": "1,200",
+      "Category-Return": "4.2%",
+      "Volatility-rating": "Low"
+    },
+    {
+      "name": "Emerging Markets Growth Fund",
+      "Bank-name": "JKL Bank",
+      "Return-interval": "1-Year",
+      "Minimum-Investment": "1,800",
+      "Category-Return": "12.7%",
+      "Volatility-rating": "High"
+    }
+  ]
+}
