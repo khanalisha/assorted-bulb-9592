@@ -2,16 +2,25 @@ import { Stack, HStack, VStack, Image, Box } from "@chakra-ui/react";
 
 function Dashboard() {
   return (
-      <>
-      <Box border="2px solid yellow">
-        <Box display="flex" w="100%">
+    <>
+      <Box>
+        <Box
+          display="flex"
+          position="fixed"
+          minW="100%"
+          minH="100%"
+          bgSize="cover"
+          bgPosition="center"
+        >
           <Image
-            src="https://thumbs.dreamstime.com/b/emergency-fund-money-coins-envelope-saved-crisis-time-condition-vector-177781670.jpg"
-            w="100%"
+            // h="40rem"
+            position="fixed"
+            src="https://www.tatamutualfund.com/images/default-source/careers/photo-gallery/tbcf-tmf-banner-newfinal.jpg?sfvrsn=65e20918_3"
+            minW="100%"
+            minH="100%"
+            bgSize="cover"
+            bgPosition="center"
           />
-
-          {/* <Image src="" /> */}
-        
         </Box>
       </Box>
     </>
